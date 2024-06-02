@@ -1,4 +1,6 @@
-### Hi My name is clice 🎲
+![header](https://github.com/clicelee/clicelee/assets/131771046/f24b74c9-694b-4c78-8686-f39d3d8d37e2)
+
+# Hi My name is clice 🎲
 ##### Konkuk Univ SICT 2nd 
 
 [![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://clice.tistory.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiminclicelee/)
