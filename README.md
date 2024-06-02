@@ -1,5 +1,4 @@
-![header](https://github.com/clicelee/clicelee/assets/131771046/f24b74c9-694b-4c78-8686-f39d3d8d37e2)
-
+![header3](https://github.com/clicelee/clicelee/assets/131771046/6f89f7a1-2ffe-4467-b878-36c79557bc59)
 # Hi My name is clice 🎲
 ##### Konkuk Univ SICT 2nd 
 
