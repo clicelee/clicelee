@@ -10,9 +10,9 @@ Applied Statistics(Minor)
 
 
 # 🧑🏻‍💻 Community
-[GDSC Konkuk](https://www.instagram.com/gdsc.konkuk/) WEB(2023.8 ~ 2025.6)
+[GDSC Konkuk WEB](https://www.instagram.com/gdsc.konkuk/)(2023.8 ~ 2025.6)
 
-SKT DEVOCEAN Young(2024.2 ~ 2024.11)
+[SKT DEVOCEAN Young](https://devocean.sk.com/community/youngList.do)(2024.2 ~ 2024.11)
 
 
 # 💻 Languages & Tools
