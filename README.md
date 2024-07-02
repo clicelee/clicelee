@@ -2,7 +2,7 @@
   
 ![new header](https://github.com/clicelee/clicelee/assets/131771046/17832af3-8d5a-4542-89c6-7861ff71fddb)
 # 🏫 Education
-Konkuk Univ (2023.3~)
+Konkuk Univ (2023~)
 
 Smart ICT Convergence(Major)
 
@@ -16,8 +16,8 @@ Applied Statistics(Minor)
 
 
 # 💻 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,vite,git,figma)](https://skillicons.dev)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicelee&layout=compact&theme=dracula) -->
 
