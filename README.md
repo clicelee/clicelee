@@ -2,7 +2,7 @@
   
 ![new header](https://github.com/clicelee/clicelee/assets/131771046/17832af3-8d5a-4542-89c6-7861ff71fddb)
 # 🏫 Education
-Konkuk Univ (2023~)
+Konkuk Univ
 
 Smart ICT Convergence(Major)
 
