@@ -12,7 +12,7 @@ Smart ICT Convergence
 
 [SKT DEVOCEAN Young](https://devocean.sk.com/community/youngList.do)(2024.2 ~ 2024.11)
 
-[GDSC Konkuk WEB Core Member](https://www.instagram.com/gdsc.konkuk/)(2024.6 ~ 2025.6)
+[Google Developer Group on Konkuk WEB Core Member](https://www.instagram.com/gdsc.konkuk/)(2024.6 ~ 2025.6)
 
 Notion Konkuk Univ Campus Leader(2024.8~2025.7)
 
