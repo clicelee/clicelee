@@ -17,17 +17,23 @@ Smart ICT Convergence
 Notion Konkuk Univ Campus Leader(2024.8~2025.7)
 
 
-# 🏃🏻‍♀️‍➡️ Activity
-[GDSC Konkuk 2024 Kprintf Organizer](https://festa.io/events/4948)
+# 🏃🏻‍♀️‍➡️ Project
 
-[GDG United 2024 Build with AI Staff](https://festa.io/events/5026)
+**Glow Alarm**
 
-[Droid Knights 2024 Staff(emergency substitute)](https://www.droidknights.dev/)
+[Google Solution Challenge TOP 100](https://developers.google.com/community/gdsc-solution-challenge/winners?hl=ko)
 
+[Google X Jocoding Gemini Hackerton TOP 2](https://www.youtube.com/watch?v=lHVlVZldGG0&t=1s)
+
+[repository](https://github.com/sound-light)
+
+**Issue Picker, IT Pick**
+
+[repository](https://github.com/IT-Pick/IT-Pick-Frontend)
 
 # 💻 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=next,vite,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,vite,git,emotion,figma)](https://skillicons.dev)
 
 
 # 👀 You can also find me in
