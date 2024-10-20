@@ -1,7 +1,9 @@
 <div align="center">
   
 ![new header](https://github.com/clicelee/clicelee/assets/131771046/17832af3-8d5a-4542-89c6-7861ff71fddb)
-# 🏫 Education
+  <img src="https://github.com/user-attachments/assets/e30f11bd-ee13-4a16-b6a6-01bd1f21ea40" alt="pngtree-five-dice-gamble-png-image_10111190" style="width: 30%;">
+  
+<!-- # 🏫 Education
 Konkuk Univ
 
 Smart ICT Convergence
@@ -37,7 +39,6 @@ Notion Konkuk Univ Campus Leader(2024.8~2025.7)
 
 
 # 👀 You can also find me in
-[![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://clice.tistory.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiminclicelee/)
-
+[![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://clice.tistory.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiminclicelee/) -->
 ![footer](https://github.com/clicelee/clicelee/assets/131771046/3097bc35-5f4a-4cf5-a4e0-3540b9cc4340)
 </div>
