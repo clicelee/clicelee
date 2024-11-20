@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
 ![new header](https://github.com/clicelee/clicelee/assets/131771046/17832af3-8d5a-4542-89c6-7861ff71fddb)
   
@@ -20,7 +20,7 @@ Konkuk Univ CSE
 <!-- # 🏃🏻‍♀️‍➡️ Project-->
 
 
-
+<!--
 
 # 💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,vue,react,tailwind)](https://skillicons.dev)
@@ -29,6 +29,14 @@ Konkuk Univ CSE
 
 # 👀 You can also find me in
 <!-- [![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://clice.tistory.com/) -->
+
+<!-- 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiminclicelee/)
 ![footer](https://github.com/clicelee/clicelee/assets/131771046/3097bc35-5f4a-4cf5-a4e0-3540b9cc4340)
-</div>
+</div> 
+
+
+-->
+
+
+<img width="100%" alt="Group 18 (1)" src="https://github.com/user-attachments/assets/e3008213-6050-46f4-be0e-a05050f41d16">
