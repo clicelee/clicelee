@@ -37,9 +37,7 @@ Konkuk Univ CSE
 
 
 -->
-<img width="100%" alt="19" src="https://github.com/user-attachments/assets/52063e80-1be2-42d7-a047-33bbe5f659cf">
-
-
+<img width="100%" alt="19" src="https://github.com/user-attachments/assets/d6a9e020-949f-454b-a2fb-886bd3e88829">
 
 
 
