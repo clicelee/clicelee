@@ -37,7 +37,74 @@ Konkuk Univ CSE
 
 
 -->
-<img width="100%" alt="19" src="https://github.com/user-attachments/assets/d6a9e020-949f-454b-a2fb-886bd3e88829">
+<!-- <img width="100%" alt="19" src="https://github.com/user-attachments/assets/d6a9e020-949f-454b-a2fb-886bd3e88829"> -->
+
+
+
+
+## 🎲 Rolling the Dice of Code & Creativity! 🎲  
+
+<img width="1000px" alt="banner" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6dWtza3IzY2syb3g4b2N3ZmQwbm5veDRpMnh6dHM2b2lpZHhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckHAdLU2OmY7knUClD/giphy.gif">
+
+---
+
+### 👋 Hey there! I'm **clice**
+
+- 🎨 **Frontend Developer who loves Javascript**
+
+---
+
+### 💡 Tech Stack
+
+**Languages & Frameworks:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+**Tools & Platforms:**
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clicelee&show_icons=true&theme=radical)
+
+---
+
+### 🚀 My Latest Projects
+- **[xkcd comic ascii converter on terminal](https://github.com/clicelee/xkcd-ascii-viewer)**
+- **[Glow Alarm](https://github.com/sound-light/glow-alarm-backend)** 
+- **[IT-Pick](https://github.com/IT-Pick/IT-Pick-Frontend)**  
+- **[GDSC Konkuk Landing Page](https://github.com/gdsc-konkuk/landing-page)** 
+
+---
+
+### 🌍 Where to Find Me
+
+- **Linkedin:** [linkedin profile](https://www.linkedin.com/in/jiminclicelee/)
+
+---
+
+### 🎯 Fun Fact
+- I once memorized **100 digits of π** when I was 12, just for fun! 🔢  
+
+---
+
+### 🌟 Open Source Contributions
+
+- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141)
+
+
+---
+
+### 📚 Study & Learning Groups
+
+- **JavaScript Deep Dive Study** 
+---
+
+💙 **Thanks for stopping by!**
+
 
 
 
