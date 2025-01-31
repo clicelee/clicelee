@@ -48,9 +48,7 @@ Konkuk Univ CSE
 
 ---
 
-### 👋 Hey there! I'm **clice**
-
-- 🎨 **Frontend Developer who loves Javascript**
+### 👋 Hey there! I'm **clice**  **Frontend Developer who loves Javascript**
 
 ---
 
@@ -58,8 +56,8 @@ Konkuk Univ CSE
 
 **Languages & Frameworks:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **Tools & Platforms:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -68,7 +66,7 @@ Konkuk Univ CSE
 ---
 
 ### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clicelee&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clicelee&show_icons=true&theme=swift)
 
 ---
 
@@ -76,14 +74,21 @@ Konkuk Univ CSE
 - **[xkcd comic ascii converter on terminal](https://github.com/clicelee/xkcd-ascii-viewer)**
 - **[Glow Alarm](https://github.com/sound-light/glow-alarm-backend)** 
 - **[IT-Pick](https://github.com/IT-Pick/IT-Pick-Frontend)**  
-- **[GDSC Konkuk Landing Page](https://github.com/gdsc-konkuk/landing-page)** 
+- **[GDSC Konkuk Landing Page](https://github.com/gdsc-konkuk/landing-page)**
+
 
 ---
 
-### 🌍 Where to Find Me
+### 🌟 Open Source Contributions
 
-- **Linkedin:** [linkedin profile](https://www.linkedin.com/in/jiminclicelee/)
+- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144)
 
+
+---
+
+### 📚 Study & Learning Groups
+
+- [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive)
 ---
 
 ### 🎯 Fun Fact
@@ -91,18 +96,11 @@ Konkuk Univ CSE
 
 ---
 
-### 🌟 Open Source Contributions
+### 🌍 Where to Find Me More
 
-- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141)
+- **Linkedin:** [linkedin profile](https://www.linkedin.com/in/jiminclicelee/)
 
-
----
-
-### 📚 Study & Learning Groups
-
-- **JavaScript Deep Dive Study** 
----
-
+- 
 💙 **Thanks for stopping by!**
 
 
