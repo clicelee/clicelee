@@ -48,7 +48,7 @@ Konkuk Univ CSE
 
 ---
 
-### 👋 Hey there! I'm **clice**  **Frontend Developer who loves Javascript**
+### 👋 Hey there! I'm **clice**  **Frontend Developer who loves Javascript.**
 
 ---
 
@@ -98,9 +98,8 @@ Konkuk Univ CSE
 
 ### 🌍 Where to Find Me More
 
-- **Linkedin:** [linkedin profile](https://www.linkedin.com/in/jiminclicelee/)
-
-- 
+- **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/)
+---
 💙 **Thanks for stopping by!**
 
 
