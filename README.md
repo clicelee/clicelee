@@ -48,20 +48,22 @@ Konkuk Univ CSE
 
 ---
 
-### 👋 Hey there! I'm **clice**  **Frontend Developer who loves Javascript.**
+## 👋 Hey there! I'm **clice**  **Frontend Developer**
+
+---
+
+### 💼 Working Career
+**LivOn Smart Care** Frontend Developer (2024.9 ~ 2025.1)
 
 ---
 
 ### 💡 Tech Stack
 
-**Languages & Frameworks:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-**Tools & Platforms:**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -81,8 +83,7 @@ Konkuk Univ CSE
 
 ### 🌟 Open Source Contributions
 
-- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144)
-
+- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155)
 
 ---
 
@@ -101,7 +102,3 @@ Konkuk Univ CSE
 - **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/)
 ---
 💙 **Thanks for stopping by!**
-
-
-
-
