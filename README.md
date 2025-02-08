@@ -42,13 +42,20 @@ Konkuk Univ CSE
 
 
 
-## 🎲 Rolling the Dice of Code & Creativity! 🎲  
+<!--## 🎲 Rolling the Dice of Code & Creativity! 🎲  
 
-<img width="1000px" alt="banner" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6dWtza3IzY2syb3g4b2N3ZmQwbm5veDRpMnh6dHM2b2lpZHhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckHAdLU2OmY7knUClD/giphy.gif">
 
----
+ <img width="1000px" alt="banner" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6dWtza3IzY2syb3g4b2N3ZmQwbm5veDRpMnh6dHM2b2lpZHhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckHAdLU2OmY7knUClD/giphy.gif">
+ ---
+ ## 👋 Hey there! I'm **clice**  **Frontend Developer**
+-->
 
-## 👋 Hey there! I'm **clice**  **Frontend Developer**
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px; width: 100%;">
+  <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=Clice%20Lee&job=Frontend%20Develoepr&company=&address=Seoul%2C%20Korea&about=Roll%20the%20dice&email=cliceleee%40gmail.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fjiminclicelee" 
+    style="flex: 1; height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=clicelee&show_icons=true&theme=vision-friendly-dark" 
+    style="flex: 1; height: 200px; object-fit: cover;">
+</div>
 
 ---
 
@@ -65,10 +72,7 @@ Konkuk Univ CSE
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clicelee&show_icons=true&theme=swift)
 
 ---
 
@@ -94,11 +98,11 @@ Konkuk Univ CSE
 
 ### 🎯 Fun Fact
 - I once memorized **100 digits of π** when I was 12, just for fun! 🔢  
-
+<!--
 ---
 
 ### 🌍 Where to Find Me More
 
-- **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/)
+- **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/) -->
 ---
 💙 **Thanks for stopping by!**
