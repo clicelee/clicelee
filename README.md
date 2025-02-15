@@ -95,10 +95,10 @@ Konkuk Univ CSE
 
 - [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive)
 ---
-<!--
+
 ### 🎯 Fun Fact
 - I once memorized **100 digits of π** when I was 12, just for fun! 🔢  
-
+<!--
 ---
 
 ### 🌍 Where to Find Me More
