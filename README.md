@@ -87,7 +87,7 @@ Konkuk Univ CSE
 
 ### 🌟 Open Source Contributions
 
-- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155)
+- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
 
 ---
 
