@@ -49,7 +49,7 @@ Konkuk Univ CSE
  ---
  ## 👋 Hey there! I'm **clice**  **Frontend Developer**
 -->
-
+<!--
 <div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px; width: 100%;">
   <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=Clice%20Lee&job=Frontend%20Develoepr&company=&address=Seoul%2C%20Korea&about=Roll%20the%20dice&email=cliceleee%40gmail.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fjiminclicelee" 
     style="flex: 1; height: 200px; object-fit: cover;">
@@ -58,6 +58,7 @@ Konkuk Univ CSE
 </div>
 
 ---
+-->
 
 ### 💼 Working Career
 **LivOn Smart Care** Frontend Developer (2024.9 ~ 2025.1)
