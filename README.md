@@ -60,22 +60,22 @@ Konkuk Univ CSE
 ---
 -->
 
-### 💼 Working Career
+### Working Career
 **LivOn Smart Care** Frontend Developer (2024.9 ~ 2025.1)
 
 ---
 
-### 💡 Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ---
@@ -88,21 +88,21 @@ Konkuk Univ CSE
 
 
 --- -->
-### 🎲 Open Source 
+### Open Source 
 - [incognito-dev](https://github.com/clicelee/incognito-dev): CLI tool (npm package)
 - [JamPack](https://github.com/clicelee/JamPack): macOS app
 
 
-### 🌟 Open Source Contributions
+### Open Source Contributions
 
 - **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
 
-### 📚 Study & Learning Groups
+### Study & Learning Groups
 
 - [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive)
 ---
 
-### 🎯 Fun Fact
+### Fun Fact
 - I once memorized **100 digits of π** when I was 12, just for fun! 🔢  
 <!--
 ---
