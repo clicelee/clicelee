@@ -80,20 +80,22 @@ Konkuk Univ CSE
 
 ---
 
-### 🚀 My Latest Projects
+<!-- ### 🚀 My Latest Projects
 - **[xkcd comic ascii converter on terminal](https://github.com/clicelee/xkcd-ascii-viewer)**
 - **[Glow Alarm](https://github.com/sound-light/glow-alarm-backend)** 
 - **[IT-Pick](https://github.com/IT-Pick/IT-Pick-Frontend)**  
 - **[GDSC Konkuk Landing Page](https://github.com/gdsc-konkuk/landing-page)**
 
 
----
+--- -->
+### 🎲 Open Source 
+- [incognito-dev](https://github.com/clicelee/incognito-dev): CLI tool (npm package)
+- [JamPack](https://github.com/clicelee/JamPack): macOS app
+
 
 ### 🌟 Open Source Contributions
 
-- **[Toss Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
-
----
+- **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
 
 ### 📚 Study & Learning Groups
 
