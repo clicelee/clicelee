@@ -112,3 +112,11 @@ Konkuk Univ CSE
 - **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/) -->
 ---
 💙 **Thanks for stopping by!**
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=clicelee&count_private=true&show_icons=true&theme=dark" /></p>
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicelee)](https://github.com/clicelee/github-readme-stats)
+
+-->
