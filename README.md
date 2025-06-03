@@ -46,7 +46,7 @@
 -->
 
 ### Working Career
-- **LivOn Smart Care** Frontend Developer (2024.9 ~ 2025.1)
+- **LivOn Smart Care** Frontend Developer (2024)
 - **Blue Dice Company** Founder (present)
 
 ---
