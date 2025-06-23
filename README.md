@@ -47,7 +47,7 @@
 
 ### Working Career
 - **LivOn Smart Care** Frontend Developer (2024)
-- **Dyce Labs** Founder (present)
+- **Dyce Lab** Founder (present)
 
 ---
 <!--
