@@ -46,8 +46,8 @@
 -->
 
 ### Working Career
-- **LivOn Smart Care** Frontend Developer (2024)
 - **Dyce Lab** Founder (present)
+- **LivOn Smart Care** Frontend Developer (2024)
 
 ---
 <!--
@@ -74,6 +74,9 @@
 ### Open Source Contributions
 
 - **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
+
+### Personal Blog
+- [Medium](https://medium.com/@cliceleee/)
 
 ### Study & Learning Groups
 - GDSC, GDG on Campus Konkuk (2024.09~2025.06)
