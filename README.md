@@ -79,8 +79,8 @@
 - [Medium](https://medium.com/@cliceleee/) -->
 
 ### Study & Learning Groups
-- GDSC, GDG on Campus Konkuk (2024.09~2025.06)
-- SKT Devocean Young(2024)
+- [Google Developer Group on Campus Konkuk](https://gdgoc-konkuk.com/) (2024-2025)
+- [SKT Devocean Young](https://devocean.sk.com/community/youngList.do) (2024)
 - [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive)
 ---
 
