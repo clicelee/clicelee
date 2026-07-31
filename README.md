@@ -74,7 +74,9 @@
 
 ### Open Source Contributions
 
-- **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) [#160](https://github.com/toss/frontend-fundamentals/pull/160)
+- **fastfetch cli** [#2448](https://github.com/fastfetch-cli/fastfetch/pull/2448)
+
+- **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) 
 
 <!-- ### Personal Blog
 - [Medium](https://medium.com/@cliceleee/) -->
