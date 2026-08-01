@@ -75,6 +75,7 @@
 ### Open Source Contributions
 
 - **fastfetch cli** [#2448](https://github.com/fastfetch-cli/fastfetch/pull/2448)
+- **crun** [#2156](https://github.com/containers/crun/pull/2156)
 
 - **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) 
 
@@ -88,15 +89,14 @@
 ---
 
 ### Fun Fact
-- I once memorized **100 digits of π** when I was 12, just for fun! 🔢  
+- I once memorized **100 digits of π** when I was 12, just for fun
 <!--
 ---
 
 ### 🌍 Where to Find Me More
 
-- **Linkedin:** [click here!](https://www.linkedin.com/in/jiminclicelee/) -->
----
-💙 **Thanks for stopping by!**
+<!--
+💙 **Thanks for stopping by!** -->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=clicelee&count_private=true&show_icons=true&theme=dark" /></p>
