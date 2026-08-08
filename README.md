@@ -67,7 +67,7 @@
 
 
 --- -->
-### Open Source 
+### Open Source Maintenance
 - [incognito-dev](https://github.com/clicelee/incognito-dev): CLI tool (npm package)
 - [JamPack](https://github.com/clicelee/JamPack): macOS app
 
@@ -85,7 +85,7 @@
 ### Study & Learning Groups
 - [Google Developer Group on Campus Konkuk](https://gdgoc-konkuk.com/) (2023-2025)
 - [SKT Devocean Young](https://devocean.sk.com/community/youngList.do) (2024)
-- [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive)
+<!-- - [JavaScript Deep Dive Study](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive) -->
 ---
 
 ### Fun Fact
