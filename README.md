@@ -67,17 +67,18 @@
 
 
 --- -->
-### Open Source Maintenance
-- [incognito-dev](https://github.com/clicelee/incognito-dev): CLI tool (npm package)
-- [JamPack](https://github.com/clicelee/JamPack): macOS app
+
 
 
 ### Open Source Contributions
-
+- **Google Chromium pdfium** [#153370](https://pdfium-review.googlesource.com/c/pdfium/+/153370)
 - **fastfetch cli** [#2448](https://github.com/fastfetch-cli/fastfetch/pull/2448)
 - **crun** [#2156](https://github.com/containers/crun/pull/2156)
 
-- **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155) 
+### Open Source Maintenance
+- [incognito-dev](https://github.com/clicelee/incognito-dev): CLI tool (npm package)
+- [JamPack](https://github.com/clicelee/JamPack): macOS app
+<!-- - **Toss Frontend Fundamentals** [#140](https://github.com/toss/frontend-fundamentals/pull/140) [#141](https://github.com/toss/frontend-fundamentals/pull/141) [#144](https://github.com/toss/frontend-fundamentals/pull/144) [#155](https://github.com/toss/frontend-fundamentals/pull/155)  -->
 
 <!-- ### Personal Blog
 - [Medium](https://medium.com/@cliceleee/) -->
