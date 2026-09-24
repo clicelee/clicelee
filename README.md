@@ -48,7 +48,7 @@
 ### Work Experience
 - **Wayne County Government** | Software Engineering Intern (2026, Michigan, US)
 - **Dyce Lab** | Founder & Frontend Lead (2025, South Korea)
-- **LivOn Smart Care** | Frontend Developer (2024, South Korea)
+- **LivOn Smart Care Inc.** | Frontend Developer (2024, South Korea)
 
 ---
 <!--
