@@ -71,7 +71,8 @@
 
 
 ### Open Source Contributions
-- **Google Chromium pdfium** [#153370](https://pdfium-review.googlesource.com/c/pdfium/+/153370)
+- **Google Chromium** [8424923](https://chromium-review.googlesource.com/c/chromium/src/+/8424923)
+- **Google pdfium** [#153370](https://pdfium-review.googlesource.com/c/pdfium/+/153370)
 - **fastfetch cli** [#2448](https://github.com/fastfetch-cli/fastfetch/pull/2448)
 - **crun** [#2156](https://github.com/containers/crun/pull/2156)
 
